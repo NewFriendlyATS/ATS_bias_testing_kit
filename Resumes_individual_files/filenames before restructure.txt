@@ -1,0 +1,954 @@
+1A NGR_TRY2_WORD2PDF
+1A NGR_TRY2_Word
+R1-C-GPA
+R1-CN-EM
+R1-EM-PN
+R1-GD-PN
+R1-GPA-CN
+R1-N-PN
+R1-ZC-S
+R1_GPA_GD
+R2_Dupe_ixd_3_despdf
+R2_GD_GPA_UNI
+R2_N_GPA_UNI
+R2_N_S_ZC
+R2_S_ZC_GD_GPA
+R2_dupe_IXD_2_pdf
+R2_dupe_ixd_1
+R2_dupe_ixd_1_pdf
+R2_dupe_ixd_2
+R2_dupe_man_split
+R3_EMalik_UNI
+R5_LI
+filename.txt
+
+./1A NGR_TRY2_WORD2PDF:
+Icon
+NGR_TRY2_word2pdf 1.pdf
+NGR_TRY2_word2pdf 10.pdf
+NGR_TRY2_word2pdf 11.pdf
+NGR_TRY2_word2pdf 12.pdf
+NGR_TRY2_word2pdf 13.pdf
+NGR_TRY2_word2pdf 14.pdf
+NGR_TRY2_word2pdf 15.pdf
+NGR_TRY2_word2pdf 16.pdf
+NGR_TRY2_word2pdf 17.pdf
+NGR_TRY2_word2pdf 18.pdf
+NGR_TRY2_word2pdf 19.pdf
+NGR_TRY2_word2pdf 2.pdf
+NGR_TRY2_word2pdf 20.pdf
+NGR_TRY2_word2pdf 21.pdf
+NGR_TRY2_word2pdf 22.pdf
+NGR_TRY2_word2pdf 23.pdf
+NGR_TRY2_word2pdf 24.pdf
+NGR_TRY2_word2pdf 25.pdf
+NGR_TRY2_word2pdf 26.pdf
+NGR_TRY2_word2pdf 27.pdf
+NGR_TRY2_word2pdf 28.pdf
+NGR_TRY2_word2pdf 29.pdf
+NGR_TRY2_word2pdf 3.pdf
+NGR_TRY2_word2pdf 30.pdf
+NGR_TRY2_word2pdf 31.pdf
+NGR_TRY2_word2pdf 32.pdf
+NGR_TRY2_word2pdf 33.pdf
+NGR_TRY2_word2pdf 34.pdf
+NGR_TRY2_word2pdf 35.pdf
+NGR_TRY2_word2pdf 36.pdf
+NGR_TRY2_word2pdf 37.pdf
+NGR_TRY2_word2pdf 38.pdf
+NGR_TRY2_word2pdf 39.pdf
+NGR_TRY2_word2pdf 4.pdf
+NGR_TRY2_word2pdf 40.pdf
+NGR_TRY2_word2pdf 41.pdf
+NGR_TRY2_word2pdf 42.pdf
+NGR_TRY2_word2pdf 43.pdf
+NGR_TRY2_word2pdf 44.pdf
+NGR_TRY2_word2pdf 45.pdf
+NGR_TRY2_word2pdf 46.pdf
+NGR_TRY2_word2pdf 47.pdf
+NGR_TRY2_word2pdf 48.pdf
+NGR_TRY2_word2pdf 49.pdf
+NGR_TRY2_word2pdf 5.pdf
+NGR_TRY2_word2pdf 6.pdf
+NGR_TRY2_word2pdf 7.pdf
+NGR_TRY2_word2pdf 8.pdf
+NGR_TRY2_word2pdf 9.pdf
+
+./1A NGR_TRY2_Word:
+Icon
+NGR_TRY2_word 01.docx
+NGR_TRY2_word 02.docx
+NGR_TRY2_word 03.docx
+NGR_TRY2_word 04.docx
+NGR_TRY2_word 05.docx
+NGR_TRY2_word 06.docx
+NGR_TRY2_word 07.docx
+NGR_TRY2_word 08.docx
+NGR_TRY2_word 09.docx
+NGR_TRY2_word 10.docx
+NGR_TRY2_word 11.docx
+NGR_TRY2_word 12.docx
+NGR_TRY2_word 13.docx
+NGR_TRY2_word 14.docx
+NGR_TRY2_word 15.docx
+NGR_TRY2_word 16.docx
+NGR_TRY2_word 17.docx
+NGR_TRY2_word 18.docx
+NGR_TRY2_word 19.docx
+NGR_TRY2_word 20.docx
+NGR_TRY2_word 21.docx
+NGR_TRY2_word 22.docx
+NGR_TRY2_word 23.docx
+NGR_TRY2_word 24.docx
+NGR_TRY2_word 25.docx
+NGR_TRY2_word 26.docx
+NGR_TRY2_word 27.docx
+NGR_TRY2_word 28.docx
+NGR_TRY2_word 29.docx
+NGR_TRY2_word 30.docx
+NGR_TRY2_word 31.docx
+NGR_TRY2_word 32.docx
+NGR_TRY2_word 33.docx
+NGR_TRY2_word 34.docx
+NGR_TRY2_word 35.docx
+NGR_TRY2_word 36.docx
+NGR_TRY2_word 37.docx
+NGR_TRY2_word 38.docx
+NGR_TRY2_word 39.docx
+NGR_TRY2_word 40.docx
+NGR_TRY2_word 41.docx
+NGR_TRY2_word 42.docx
+NGR_TRY2_word 43.docx
+NGR_TRY2_word 44.docx
+NGR_TRY2_word 45.docx
+NGR_TRY2_word 46.docx
+NGR_TRY2_word 47.docx
+NGR_TRY2_word 48.docx
+NGR_TRY2_word 49.docx
+
+./R1-C-GPA:
+Icon
+R1-C-GPA 01.docx
+R1-C-GPA 02.docx
+R1-C-GPA 03.docx
+R1-C-GPA 04.docx
+R1-C-GPA 05.docx
+R1-C-GPA 06.docx
+R1-C-GPA 07.docx
+R1-C-GPA 08.docx
+R1-C-GPA 09.docx
+R1-C-GPA 10.docx
+R1-C-GPA 11.docx
+R1-C-GPA 12.docx
+R1-C-GPA 13.docx
+R1-C-GPA 14.docx
+R1-C-GPA 15.docx
+R1-C-GPA 16.docx
+R1-C-GPA 17.docx
+R1-C-GPA 18.docx
+R1-C-GPA 19.docx
+R1-C-GPA 20.docx
+R1-C-GPA 21.docx
+R1-C-GPA 22.docx
+R1-C-GPA 23.docx
+R1-C-GPA 24.docx
+R1-C-GPA 25.docx
+R1-C-GPA 26.docx
+R1-C-GPA 27.docx
+R1-C-GPA 28.docx
+R1-C-GPA 29.docx
+R1-C-GPA 30.docx
+R1-C-GPA 31.docx
+R1-C-GPA 32.docx
+R1-C-GPA 33.docx
+R1-C-GPA 34.docx
+R1-C-GPA 35.docx
+R1-C-GPA 36.docx
+R1-C-GPA 37.docx
+R1-C-GPA 38.docx
+R1-C-GPA 39.docx
+R1-C-GPA 40.docx
+R1-C-GPA 41.docx
+R1-C-GPA 42.docx
+R1-C-GPA 43.docx
+R1-C-GPA 44.docx
+R1-C-GPA 45.docx
+R1-C-GPA 46.docx
+R1-C-GPA 47.docx
+R1-C-GPA 48.docx
+R1-C-GPA 49.docx
+R1-C-GPA 50.docx
+
+./R1-CN-EM:
+Icon
+R1-CN-EM 01.docx
+R1-CN-EM 02.docx
+R1-CN-EM 03.docx
+R1-CN-EM 04.docx
+R1-CN-EM 05.docx
+R1-CN-EM 06.docx
+R1-CN-EM 07.docx
+R1-CN-EM 08.docx
+R1-CN-EM 09.docx
+R1-CN-EM 10.docx
+R1-CN-EM 11.docx
+R1-CN-EM 12.docx
+R1-CN-EM 13.docx
+R1-CN-EM 14.docx
+R1-CN-EM 15.docx
+R1-CN-EM 16.docx
+R1-CN-EM 17.docx
+R1-CN-EM 18.docx
+R1-CN-EM 19.docx
+R1-CN-EM 20.docx
+R1-CN-EM 21.docx
+R1-CN-EM 22.docx
+R1-CN-EM 23.docx
+R1-CN-EM 24.docx
+R1-CN-EM 25.docx
+R1-CN-EM 26.docx
+R1-CN-EM 27.docx
+R1-CN-EM 28.docx
+R1-CN-EM 29.docx
+R1-CN-EM 30.docx
+R1-CN-EM 31.docx
+R1-CN-EM 32.docx
+R1-CN-EM 33.docx
+R1-CN-EM 34.docx
+R1-CN-EM 35.docx
+R1-CN-EM 36.docx
+R1-CN-EM 37.docx
+R1-CN-EM 38.docx
+R1-CN-EM 39.docx
+R1-CN-EM 40.docx
+R1-CN-EM 41.docx
+R1-CN-EM 42.docx
+R1-CN-EM 43.docx
+R1-CN-EM 44.docx
+R1-CN-EM 45.docx
+R1-CN-EM 46.docx
+R1-CN-EM 47.docx
+R1-CN-EM 48.docx
+R1-CN-EM 49.docx
+
+./R1-EM-PN:
+Icon
+R1-EM-PN 01.docx
+R1-EM-PN 02.docx
+R1-EM-PN 03.docx
+R1-EM-PN 04.docx
+R1-EM-PN 05.docx
+R1-EM-PN 06.docx
+R1-EM-PN 07.docx
+R1-EM-PN 08.docx
+R1-EM-PN 09.docx
+R1-EM-PN 10.docx
+R1-EM-PN 11.docx
+R1-EM-PN 12.docx
+R1-EM-PN 13.docx
+R1-EM-PN 14.docx
+R1-EM-PN 15.docx
+R1-EM-PN 16.docx
+R1-EM-PN 17.docx
+R1-EM-PN 18.docx
+R1-EM-PN 19.docx
+R1-EM-PN 20.docx
+R1-EM-PN 21.docx
+R1-EM-PN 22.docx
+R1-EM-PN 23.docx
+R1-EM-PN 24.docx
+R1-EM-PN 25.docx
+R1-EM-PN 26.docx
+R1-EM-PN 27.docx
+R1-EM-PN 28.docx
+R1-EM-PN 29.docx
+R1-EM-PN 30.docx
+R1-EM-PN 31.docx
+R1-EM-PN 32.docx
+R1-EM-PN 33.docx
+R1-EM-PN 34.docx
+R1-EM-PN 35.docx
+R1-EM-PN 36.docx
+R1-EM-PN 37.docx
+R1-EM-PN 38.docx
+R1-EM-PN 39.docx
+R1-EM-PN 40.docx
+R1-EM-PN 41.docx
+R1-EM-PN 42.docx
+R1-EM-PN 43.docx
+R1-EM-PN 44.docx
+R1-EM-PN 45.docx
+R1-EM-PN 46.docx
+R1-EM-PN 47.docx
+R1-EM-PN 48.docx
+R1-EM-PN 49.docx
+
+./R1-GD-PN:
+Icon
+R1-GD-PN 01.docx
+R1-GD-PN 02.docx
+R1-GD-PN 03.docx
+R1-GD-PN 04.docx
+R1-GD-PN 05.docx
+R1-GD-PN 06.docx
+R1-GD-PN 07.docx
+R1-GD-PN 08.docx
+R1-GD-PN 09.docx
+R1-GD-PN 10.docx
+R1-GD-PN 11.docx
+R1-GD-PN 12.docx
+R1-GD-PN 13.docx
+R1-GD-PN 14.docx
+R1-GD-PN 15.docx
+R1-GD-PN 16.docx
+R1-GD-PN 17.docx
+R1-GD-PN 18.docx
+R1-GD-PN 19.docx
+R1-GD-PN 20.docx
+R1-GD-PN 21.docx
+R1-GD-PN 22.docx
+R1-GD-PN 23.docx
+R1-GD-PN 24.docx
+R1-GD-PN 25.docx
+R1-GD-PN 26.docx
+R1-GD-PN 27.docx
+R1-GD-PN 28.docx
+R1-GD-PN 29.docx
+R1-GD-PN 30.docx
+R1-GD-PN 31.docx
+R1-GD-PN 32.docx
+R1-GD-PN 33.docx
+R1-GD-PN 34.docx
+R1-GD-PN 35.docx
+R1-GD-PN 36.docx
+R1-GD-PN 37.docx
+R1-GD-PN 38.docx
+R1-GD-PN 39.docx
+R1-GD-PN 40.docx
+R1-GD-PN 41.docx
+R1-GD-PN 42.docx
+R1-GD-PN 43.docx
+R1-GD-PN 44.docx
+R1-GD-PN 45.docx
+R1-GD-PN 46.docx
+R1-GD-PN 47.docx
+R1-GD-PN 48.docx
+R1-GD-PN 49.docx
+R1-GD-PN 50.docx
+R1-GD-PN 51.docx
+R1-GD-PN 52.docx
+R1-GD-PN 53.docx
+R1-GD-PN 54.docx
+R1-GD-PN 55.docx
+R1-GD-PN 56.docx
+~$-GD-PN.docx
+
+./R1-GPA-CN:
+Icon
+R1-GPA-CN 01.docx
+R1-GPA-CN 02.docx
+R1-GPA-CN 03.docx
+R1-GPA-CN 04.docx
+R1-GPA-CN 05.docx
+R1-GPA-CN 06.docx
+R1-GPA-CN 07.docx
+R1-GPA-CN 08.docx
+R1-GPA-CN 09.docx
+R1-GPA-CN 10.docx
+R1-GPA-CN 11.docx
+R1-GPA-CN 12.docx
+R1-GPA-CN 13.docx
+R1-GPA-CN 14.docx
+R1-GPA-CN 15.docx
+R1-GPA-CN 16.docx
+R1-GPA-CN 17.docx
+R1-GPA-CN 18.docx
+R1-GPA-CN 19.docx
+R1-GPA-CN 20.docx
+R1-GPA-CN 21.docx
+R1-GPA-CN 22.docx
+R1-GPA-CN 23.docx
+R1-GPA-CN 24.docx
+R1-GPA-CN 25.docx
+R1-GPA-CN 26.docx
+R1-GPA-CN 27.docx
+R1-GPA-CN 28.docx
+R1-GPA-CN 29.docx
+R1-GPA-CN 30.docx
+R1-GPA-CN 31.docx
+R1-GPA-CN 32.docx
+R1-GPA-CN 33.docx
+R1-GPA-CN 34.docx
+R1-GPA-CN 35.docx
+R1-GPA-CN 36.docx
+R1-GPA-CN 37.docx
+R1-GPA-CN 38.docx
+R1-GPA-CN 39.docx
+R1-GPA-CN 40.docx
+R1-GPA-CN 41.docx
+R1-GPA-CN 42.docx
+R1-GPA-CN 43.docx
+R1-GPA-CN 44.docx
+R1-GPA-CN 45.docx
+R1-GPA-CN 46.docx
+R1-GPA-CN 47.docx
+R1-GPA-CN 48.docx
+R1-GPA-CN 49.docx
+
+./R1-N-PN:
+Icon
+R1-N-PN 01.docx
+R1-N-PN 02.docx
+R1-N-PN 03.docx
+R1-N-PN 04.docx
+R1-N-PN 05.docx
+R1-N-PN 06.docx
+R1-N-PN 07.docx
+R1-N-PN 08.docx
+R1-N-PN 09.docx
+R1-N-PN 10.docx
+R1-N-PN 11.docx
+R1-N-PN 12.docx
+R1-N-PN 13.docx
+R1-N-PN 14.docx
+R1-N-PN 15.docx
+R1-N-PN 16.docx
+R1-N-PN 17.docx
+R1-N-PN 18.docx
+R1-N-PN 19.docx
+R1-N-PN 20.docx
+R1-N-PN 21.docx
+R1-N-PN 22.docx
+R1-N-PN 23.docx
+R1-N-PN 24.docx
+R1-N-PN 25.docx
+R1-N-PN 26.docx
+R1-N-PN 27.docx
+R1-N-PN 28.docx
+R1-N-PN 29.docx
+R1-N-PN 30.docx
+R1-N-PN 31.docx
+R1-N-PN 32.docx
+R1-N-PN 33.docx
+R1-N-PN 34.docx
+R1-N-PN 35.docx
+R1-N-PN 36.docx
+R1-N-PN 37.docx
+R1-N-PN 38.docx
+R1-N-PN 39.docx
+R1-N-PN 40.docx
+R1-N-PN 41.docx
+R1-N-PN 42.docx
+R1-N-PN 43.docx
+R1-N-PN 44.docx
+R1-N-PN 45.docx
+R1-N-PN 46.docx
+R1-N-PN 47.docx
+R1-N-PN 48.docx
+R1-N-PN 49.docx
+
+./R1-ZC-S:
+Icon
+R1-ZC-S 01.docx
+R1-ZC-S 02.docx
+R1-ZC-S 03.docx
+R1-ZC-S 04.docx
+R1-ZC-S 05.docx
+R1-ZC-S 06.docx
+R1-ZC-S 07.docx
+R1-ZC-S 08.docx
+R1-ZC-S 09.docx
+R1-ZC-S 10.docx
+R1-ZC-S 11.docx
+R1-ZC-S 12.docx
+R1-ZC-S 13.docx
+R1-ZC-S 14.docx
+R1-ZC-S 15.docx
+R1-ZC-S 16.docx
+R1-ZC-S 17.docx
+R1-ZC-S 18.docx
+R1-ZC-S 19.docx
+R1-ZC-S 20.docx
+R1-ZC-S 21.docx
+R1-ZC-S 22.docx
+R1-ZC-S 23.docx
+R1-ZC-S 24.docx
+R1-ZC-S 25.docx
+R1-ZC-S 26.docx
+R1-ZC-S 27.docx
+R1-ZC-S 28.docx
+R1-ZC-S 29.docx
+R1-ZC-S 30.docx
+R1-ZC-S 31.docx
+R1-ZC-S 32.docx
+R1-ZC-S 33.docx
+R1-ZC-S 34.docx
+R1-ZC-S 35.docx
+R1-ZC-S 36.docx
+R1-ZC-S 37.docx
+R1-ZC-S 38.docx
+R1-ZC-S 39.docx
+R1-ZC-S 40.docx
+R1-ZC-S 41.docx
+R1-ZC-S 42.docx
+R1-ZC-S 43.docx
+R1-ZC-S 44.docx
+R1-ZC-S 45.docx
+R1-ZC-S 46.docx
+R1-ZC-S 47.docx
+R1-ZC-S 48.docx
+R1-ZC-S 49.docx
+R1-ZC-S 50.docx
+
+./R1_GPA_GD:
+Icon
+R1-GPA-GD 01.docx
+R1-GPA-GD 02.docx
+R1-GPA-GD 03.docx
+R1-GPA-GD 04.docx
+R1-GPA-GD 05.docx
+R1-GPA-GD 06.docx
+R1-GPA-GD 07.docx
+R1-GPA-GD 08.docx
+R1-GPA-GD 09.docx
+R1-GPA-GD 10.docx
+R1-GPA-GD 11.docx
+R1-GPA-GD 12.docx
+R1-GPA-GD 13.docx
+R1-GPA-GD 14.docx
+R1-GPA-GD 15.docx
+R1-GPA-GD 16.docx
+R1-GPA-GD 17.docx
+R1-GPA-GD 18.docx
+R1-GPA-GD 19.docx
+R1-GPA-GD 20.docx
+R1-GPA-GD 21.docx
+R1-GPA-GD 22.docx
+R1-GPA-GD 23.docx
+R1-GPA-GD 24.docx
+R1-GPA-GD 25.docx
+R1-GPA-GD 26.docx
+R1-GPA-GD 27.docx
+R1-GPA-GD 28.docx
+R1-GPA-GD 29.docx
+R1-GPA-GD 30.docx
+R1-GPA-GD 31.docx
+R1-GPA-GD 32.docx
+R1-GPA-GD 33.docx
+R1-GPA-GD 34.docx
+R1-GPA-GD 35.docx
+R1-GPA-GD 36.docx
+R1-GPA-GD 37.docx
+R1-GPA-GD 38.docx
+R1-GPA-GD 39.docx
+R1-GPA-GD 40.docx
+R1-GPA-GD 41.docx
+R1-GPA-GD 42.docx
+R1-GPA-GD 43.docx
+R1-GPA-GD 44.docx
+R1-GPA-GD 45.docx
+R1-GPA-GD 46.docx
+R1-GPA-GD 47.docx
+R1-GPA-GD 48.docx
+R1-GPA-GD 49.docx
+
+./R2_Dupe_ixd_3_despdf:
+Icon
+R2_dupe_ixd_2_despdf_01.pdf
+R2_dupe_ixd_2_despdf_02.pdf
+R2_dupe_ixd_2_despdf_03.pdf
+R2_dupe_ixd_2_despdf_04.pdf
+R2_dupe_ixd_2_despdf_05.pdf
+R2_dupe_ixd_2_despdf_06.pdf
+R2_dupe_ixd_2_despdf_07.pdf
+R2_dupe_ixd_2_despdf_08.pdf
+R2_dupe_ixd_2_despdf_09.pdf
+R2_dupe_ixd_2_despdf_10.pdf
+R2_dupe_ixd_2_despdf_11.pdf
+R2_dupe_ixd_2_despdf_12.pdf
+R2_dupe_ixd_2_despdf_13.pdf
+R2_dupe_ixd_2_despdf_14.pdf
+R2_dupe_ixd_2_despdf_15.pdf
+R2_dupe_ixd_2_despdf_16.pdf
+R2_dupe_ixd_2_despdf_17.pdf
+R2_dupe_ixd_2_despdf_18.pdf
+R2_dupe_ixd_2_despdf_19.pdf
+R2_dupe_ixd_2_despdf_20.pdf
+R2_dupe_ixd_2_despdf_21.pdf
+R2_dupe_ixd_2_despdf_22.pdf
+R2_dupe_ixd_2_despdf_23.pdf
+R2_dupe_ixd_2_despdf_24.pdf
+R2_dupe_ixd_2_despdf_25.pdf
+R2_dupe_ixd_2_despdf_26.pdf
+R2_dupe_ixd_2_despdf_27.pdf
+R2_dupe_ixd_2_despdf_28.pdf
+R2_dupe_ixd_2_despdf_29.pdf
+R2_dupe_ixd_2_despdf_30.pdf
+R2_dupe_ixd_2_despdf_31.pdf
+R2_dupe_ixd_2_despdf_32.pdf
+R2_dupe_ixd_2_despdf_33.pdf
+R2_dupe_ixd_2_despdf_34.pdf
+R2_dupe_ixd_2_despdf_35.pdf
+R2_dupe_ixd_2_despdf_36.pdf
+R2_dupe_ixd_2_despdf_37.pdf
+R2_dupe_ixd_2_despdf_38.pdf
+R2_dupe_ixd_2_despdf_39.pdf
+R2_dupe_ixd_2_despdf_40.pdf
+R2_dupe_ixd_2_despdf_41.pdf
+R2_dupe_ixd_2_despdf_42.pdf
+R2_dupe_ixd_2_despdf_43.pdf
+R2_dupe_ixd_2_despdf_44.pdf
+R2_dupe_ixd_2_despdf_45.pdf
+R2_dupe_ixd_2_despdf_46.pdf
+R2_dupe_ixd_2_despdf_47.pdf
+R2_dupe_ixd_2_despdf_48.pdf
+R2_dupe_ixd_2_despdf_49.pdf
+
+./R2_GD_GPA_UNI:
+Icon
+R2_GD_GPA_UNI 01.docx
+R2_GD_GPA_UNI 02.docx
+R2_GD_GPA_UNI 03.docx
+R2_GD_GPA_UNI 04.docx
+
+./R2_N_GPA_UNI:
+R2_N_GPA_UNI 01.docx
+R2_N_GPA_UNI 02.docx
+R2_N_GPA_UNI 03.docx
+R2_N_GPA_UNI 04.docx
+
+./R2_N_S_ZC:
+Icon
+R2_N_S_ZC 01.docx
+R2_N_S_ZC 02.docx
+R2_N_S_ZC 03.docx
+R2_N_S_ZC 04.docx
+
+./R2_S_ZC_GD_GPA:
+Icon
+R2_S_ZC_GD_GPA 01.docx
+R2_S_ZC_GD_GPA 02.docx
+R2_S_ZC_GD_GPA 03.docx
+R2_S_ZC_GD_GPA 04.docx
+
+./R2_dupe_IXD_2_pdf:
+Icon
+r2_dupe_ixd_word2pdf_1.pdf
+r2_dupe_ixd_word2pdf_10.pdf
+r2_dupe_ixd_word2pdf_11.pdf
+r2_dupe_ixd_word2pdf_12.pdf
+r2_dupe_ixd_word2pdf_13.pdf
+r2_dupe_ixd_word2pdf_14.pdf
+r2_dupe_ixd_word2pdf_15.pdf
+r2_dupe_ixd_word2pdf_16.pdf
+r2_dupe_ixd_word2pdf_17.pdf
+r2_dupe_ixd_word2pdf_18.pdf
+r2_dupe_ixd_word2pdf_19.pdf
+r2_dupe_ixd_word2pdf_2.pdf
+r2_dupe_ixd_word2pdf_20.pdf
+r2_dupe_ixd_word2pdf_21.pdf
+r2_dupe_ixd_word2pdf_22.pdf
+r2_dupe_ixd_word2pdf_23.pdf
+r2_dupe_ixd_word2pdf_24.pdf
+r2_dupe_ixd_word2pdf_25.pdf
+r2_dupe_ixd_word2pdf_26.pdf
+r2_dupe_ixd_word2pdf_27.pdf
+r2_dupe_ixd_word2pdf_28.pdf
+r2_dupe_ixd_word2pdf_29.pdf
+r2_dupe_ixd_word2pdf_3.pdf
+r2_dupe_ixd_word2pdf_30.pdf
+r2_dupe_ixd_word2pdf_31.pdf
+r2_dupe_ixd_word2pdf_32.pdf
+r2_dupe_ixd_word2pdf_33.pdf
+r2_dupe_ixd_word2pdf_34.pdf
+r2_dupe_ixd_word2pdf_35.pdf
+r2_dupe_ixd_word2pdf_36.pdf
+r2_dupe_ixd_word2pdf_37.pdf
+r2_dupe_ixd_word2pdf_38.pdf
+r2_dupe_ixd_word2pdf_39.pdf
+r2_dupe_ixd_word2pdf_4.pdf
+r2_dupe_ixd_word2pdf_40.pdf
+r2_dupe_ixd_word2pdf_41.pdf
+r2_dupe_ixd_word2pdf_42.pdf
+r2_dupe_ixd_word2pdf_43.pdf
+r2_dupe_ixd_word2pdf_44.pdf
+r2_dupe_ixd_word2pdf_45.pdf
+r2_dupe_ixd_word2pdf_46.pdf
+r2_dupe_ixd_word2pdf_47.pdf
+r2_dupe_ixd_word2pdf_48.pdf
+r2_dupe_ixd_word2pdf_49.pdf
+r2_dupe_ixd_word2pdf_5.pdf
+r2_dupe_ixd_word2pdf_6.pdf
+r2_dupe_ixd_word2pdf_7.pdf
+r2_dupe_ixd_word2pdf_8.pdf
+r2_dupe_ixd_word2pdf_9.pdf
+
+./R2_dupe_ixd_1:
+Icon
+R2_dupe_ixd_1_combined 01.docx
+R2_dupe_ixd_1_combined 02.docx
+R2_dupe_ixd_1_combined 03.docx
+R2_dupe_ixd_1_combined 04.docx
+R2_dupe_ixd_1_combined 05.docx
+R2_dupe_ixd_1_combined 06.docx
+R2_dupe_ixd_1_combined 07.docx
+R2_dupe_ixd_1_combined 08.docx
+R2_dupe_ixd_1_combined 09.docx
+R2_dupe_ixd_1_combined 10.docx
+R2_dupe_ixd_1_combined 11.docx
+R2_dupe_ixd_1_combined 12.docx
+R2_dupe_ixd_1_combined 13.docx
+R2_dupe_ixd_1_combined 14.docx
+R2_dupe_ixd_1_combined 15.docx
+R2_dupe_ixd_1_combined 16.docx
+R2_dupe_ixd_1_combined 17.docx
+R2_dupe_ixd_1_combined 18.docx
+R2_dupe_ixd_1_combined 19.docx
+R2_dupe_ixd_1_combined 20.docx
+R2_dupe_ixd_1_combined 21.docx
+R2_dupe_ixd_1_combined 22.docx
+R2_dupe_ixd_1_combined 23.docx
+R2_dupe_ixd_1_combined 24.docx
+R2_dupe_ixd_1_combined 25.docx
+R2_dupe_ixd_1_combined 26.docx
+R2_dupe_ixd_1_combined 27.docx
+R2_dupe_ixd_1_combined 28.docx
+R2_dupe_ixd_1_combined 29.docx
+R2_dupe_ixd_1_combined 30.docx
+R2_dupe_ixd_1_combined 31.docx
+R2_dupe_ixd_1_combined 32.docx
+R2_dupe_ixd_1_combined 33.docx
+R2_dupe_ixd_1_combined 34.docx
+R2_dupe_ixd_1_combined 35.docx
+R2_dupe_ixd_1_combined 36.docx
+R2_dupe_ixd_1_combined 37.docx
+R2_dupe_ixd_1_combined 38.docx
+R2_dupe_ixd_1_combined 39.docx
+R2_dupe_ixd_1_combined 40.docx
+R2_dupe_ixd_1_combined 41.docx
+R2_dupe_ixd_1_combined 42.docx
+R2_dupe_ixd_1_combined 43.docx
+R2_dupe_ixd_1_combined 44.docx
+R2_dupe_ixd_1_combined 45.docx
+R2_dupe_ixd_1_combined 46.docx
+R2_dupe_ixd_1_combined 47.docx
+R2_dupe_ixd_1_combined 48.docx
+R2_dupe_ixd_1_combined 49.docx
+
+./R2_dupe_ixd_1_pdf:
+Icon
+R2_dupe_ixd_1_pdf_1.pdf
+R2_dupe_ixd_1_pdf_10.pdf
+R2_dupe_ixd_1_pdf_11.pdf
+R2_dupe_ixd_1_pdf_12.pdf
+R2_dupe_ixd_1_pdf_13.pdf
+R2_dupe_ixd_1_pdf_14.pdf
+R2_dupe_ixd_1_pdf_15.pdf
+R2_dupe_ixd_1_pdf_16.pdf
+R2_dupe_ixd_1_pdf_17.pdf
+R2_dupe_ixd_1_pdf_18.pdf
+R2_dupe_ixd_1_pdf_19.pdf
+R2_dupe_ixd_1_pdf_2.pdf
+R2_dupe_ixd_1_pdf_20.pdf
+R2_dupe_ixd_1_pdf_21.pdf
+R2_dupe_ixd_1_pdf_22.pdf
+R2_dupe_ixd_1_pdf_23.pdf
+R2_dupe_ixd_1_pdf_24.pdf
+R2_dupe_ixd_1_pdf_25.pdf
+R2_dupe_ixd_1_pdf_26.pdf
+R2_dupe_ixd_1_pdf_27.pdf
+R2_dupe_ixd_1_pdf_28.pdf
+R2_dupe_ixd_1_pdf_29.pdf
+R2_dupe_ixd_1_pdf_3.pdf
+R2_dupe_ixd_1_pdf_30.pdf
+R2_dupe_ixd_1_pdf_31.pdf
+R2_dupe_ixd_1_pdf_32.pdf
+R2_dupe_ixd_1_pdf_33.pdf
+R2_dupe_ixd_1_pdf_34.pdf
+R2_dupe_ixd_1_pdf_35.pdf
+R2_dupe_ixd_1_pdf_36.pdf
+R2_dupe_ixd_1_pdf_37.pdf
+R2_dupe_ixd_1_pdf_38.pdf
+R2_dupe_ixd_1_pdf_39.pdf
+R2_dupe_ixd_1_pdf_4.pdf
+R2_dupe_ixd_1_pdf_40.pdf
+R2_dupe_ixd_1_pdf_41.pdf
+R2_dupe_ixd_1_pdf_42.pdf
+R2_dupe_ixd_1_pdf_43.pdf
+R2_dupe_ixd_1_pdf_44.pdf
+R2_dupe_ixd_1_pdf_45.pdf
+R2_dupe_ixd_1_pdf_46.pdf
+R2_dupe_ixd_1_pdf_47.pdf
+R2_dupe_ixd_1_pdf_48.pdf
+R2_dupe_ixd_1_pdf_49.pdf
+R2_dupe_ixd_1_pdf_5.pdf
+R2_dupe_ixd_1_pdf_6.pdf
+R2_dupe_ixd_1_pdf_7.pdf
+R2_dupe_ixd_1_pdf_8.pdf
+R2_dupe_ixd_1_pdf_9.pdf
+
+./R2_dupe_ixd_2:
+Icon
+R2_dupe_ixd_01.docx
+R2_dupe_ixd_02.docx
+R2_dupe_ixd_03.docx
+R2_dupe_ixd_04.docx
+R2_dupe_ixd_05.docx
+R2_dupe_ixd_06.docx
+R2_dupe_ixd_07.docx
+R2_dupe_ixd_08.docx
+R2_dupe_ixd_09.docx
+R2_dupe_ixd_10.docx
+R2_dupe_ixd_11.docx
+R2_dupe_ixd_12.docx
+R2_dupe_ixd_13.docx
+R2_dupe_ixd_14.docx
+R2_dupe_ixd_15.docx
+R2_dupe_ixd_16.docx
+R2_dupe_ixd_17.docx
+R2_dupe_ixd_18.docx
+R2_dupe_ixd_19.docx
+R2_dupe_ixd_20.docx
+R2_dupe_ixd_21.docx
+R2_dupe_ixd_22.docx
+R2_dupe_ixd_23.docx
+R2_dupe_ixd_24.docx
+R2_dupe_ixd_25.docx
+R2_dupe_ixd_26.docx
+R2_dupe_ixd_27.docx
+R2_dupe_ixd_28.docx
+R2_dupe_ixd_29.docx
+R2_dupe_ixd_30.docx
+R2_dupe_ixd_31.docx
+R2_dupe_ixd_32.docx
+R2_dupe_ixd_33.docx
+R2_dupe_ixd_34.docx
+R2_dupe_ixd_35.docx
+R2_dupe_ixd_36.docx
+R2_dupe_ixd_37.docx
+R2_dupe_ixd_38.docx
+R2_dupe_ixd_39.docx
+R2_dupe_ixd_40.docx
+R2_dupe_ixd_41.docx
+R2_dupe_ixd_42.docx
+R2_dupe_ixd_43.docx
+R2_dupe_ixd_44.docx
+R2_dupe_ixd_45.docx
+R2_dupe_ixd_46.docx
+R2_dupe_ixd_47.docx
+R2_dupe_ixd_48.docx
+R2_dupe_ixd_49.docx
+
+./R2_dupe_man_split:
+Icon
+R2_dupe_man_split_1.docx
+R2_dupe_man_split_2.docx
+R2_dupe_man_split_3.docx
+R2_dupe_man_split_4.docx
+R2_dupe_man_split_5.docx
+R2_dupe_man_split_6.docx
+R2_dupe_man_split_7.docx
+R2_dupe_man_split_8.docx
+
+./R3_EMalik_UNI:
+Icon
+R3_EMallik_UNI 01.docx
+R3_EMallik_UNI 02.docx
+R3_EMallik_UNI 03.docx
+R3_EMallik_UNI 04.docx
+R3_EMallik_UNI 05.docx
+R3_EMallik_UNI 06.docx
+R3_EMallik_UNI 07.docx
+R3_EMallik_UNI 08.docx
+R3_EMallik_UNI 09.docx
+R3_EMallik_UNI 10.docx
+R3_EMallik_UNI 11.docx
+R3_EMallik_UNI 12.docx
+R3_EMallik_UNI 13.docx
+R3_EMallik_UNI 14.docx
+R3_EMallik_UNI 15.docx
+R3_EMallik_UNI 16.docx
+R3_EMallik_UNI 17.docx
+R3_EMallik_UNI 18.docx
+R3_EMallik_UNI 19.docx
+R3_EMallik_UNI 20.docx
+R3_EMallik_UNI 21.docx
+R3_EMallik_UNI 22.docx
+R3_EMallik_UNI 23.docx
+R3_EMallik_UNI 24.docx
+R3_EMallik_UNI 25.docx
+R3_EMallik_UNI 26.docx
+R3_EMallik_UNI 27.docx
+R3_EMallik_UNI 28.docx
+R3_EMallik_UNI 29.docx
+R3_EMallik_UNI 30.docx
+R3_EMallik_UNI 31.docx
+R3_EMallik_UNI 32.docx
+R3_EMallik_UNI 33.docx
+R3_EMallik_UNI 34.docx
+R3_EMallik_UNI 35.docx
+R3_EMallik_UNI 36.docx
+R3_EMallik_UNI 37.docx
+R3_EMallik_UNI 38.docx
+R3_EMallik_UNI 39.docx
+R3_EMallik_UNI 40.docx
+R3_EMallik_UNI 41.docx
+R3_EMallik_UNI 42.docx
+R3_EMallik_UNI 43.docx
+R3_EMallik_UNI 44.docx
+R3_EMallik_UNI 45.docx
+R3_EMallik_UNI 46.docx
+R3_EMallik_UNI 47.docx
+R3_EMallik_UNI 48.docx
+R3_EMallik_UNI 49.docx
+
+./R5_LI:
+R4_LI_pt_1 01.docx
+R4_LI_pt_1 02.docx
+R4_LI_pt_1 03.docx
+R4_LI_pt_1 04.docx
+R4_LI_pt_1 05.docx
+R4_LI_pt_1 06.docx
+R4_LI_pt_1 07.docx
+R4_LI_pt_1 08.docx
+R4_LI_pt_1 09.docx
+R4_LI_pt_1 10.docx
+R4_LI_pt_1 11.docx
+R4_LI_pt_1 12.docx
+R4_LI_pt_1 13.docx
+R4_LI_pt_1 14.docx
+R4_LI_pt_1 15.docx
+R4_LI_pt_1 16.docx
+R4_LI_pt_1 17.docx
+R4_LI_pt_1 18.docx
+R4_LI_pt_1 19.docx
+R4_LI_pt_1 20.docx
+R4_LI_pt_1 21.docx
+R4_LI_pt_1 22.docx
+R4_LI_pt_1 23.docx
+R4_LI_pt_1 24.docx
+R4_LI_pt_1 25.docx
+R4_LI_pt_1 26.docx
+R4_LI_pt_1 27.docx
+R4_LI_pt_1 28.docx
+R4_LI_pt_1 29.docx
+R4_LI_pt_1 30.docx
+R4_LI_pt_1 31.docx
+R4_LI_pt_1 32.docx
+R4_LI_pt_1 33.docx
+R4_LI_pt_1 34.docx
+R4_LI_pt_1 35.docx
+R4_LI_pt_1 36.docx
+R4_LI_pt_1 37.docx
+R4_LI_pt_1 38.docx
+R4_LI_pt_1 39.docx
+R4_LI_pt_1 40.docx
+R4_LI_pt_1 41.docx
+R4_LI_pt_1 42.docx
+R4_LI_pt_1 43.docx
+R4_LI_pt_1 44.docx
+R4_LI_pt_1 45.docx
+R4_LI_pt_1 46.docx
+R4_LI_pt_1 47.docx
+R4_LI_pt_1 48.docx
+R4_LI_pt_1 49.docx
